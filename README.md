@@ -3,7 +3,7 @@
 I am a mobile application developer with a passion for creating intuitive and user-friendly apps.
 
 #### About Me
-I have been developing mobile applications for over 3 years, with a focus on creating engaging and useful apps for both iOS and Android platforms. My goal is to create apps that not only serve a specific purpose, but also provide a seamless and enjoyable user experience.
+I have been developing mobile applications for over 2 years, with a focus on creating engaging and useful apps for both iOS and Android platforms. My goal is to create apps that not only serve a specific purpose, but also provide a seamless and enjoyable user experience.
 
 #### My Skills
 - Proficient in the Dart programming language and the Flutter framework
