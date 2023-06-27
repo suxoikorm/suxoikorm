@@ -13,7 +13,7 @@ I have been developing mobile applications for over 2 years, with a focus on cre
 - Experience with agile development methodologies
 
 #### My Work
-Here are some of my applications:
+Here are some of my pet projects:
 
 *Purple Diary* - simple and elegant journaling app that allows users to record their thoughts, feelings, and daily experiences in a private and secure space.
 
